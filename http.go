@@ -10,8 +10,8 @@ import (
 	"strings"
 	"syscall"
 
-	"go/build"
 	"github.com/broady/mtgprice/mtgprice"
+	"go/build"
 )
 
 var client *mtgprice.Client
